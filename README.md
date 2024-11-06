@@ -1,5 +1,6 @@
 # my-work
-my work in python
+## my work in python
+```python
 import random, string  
 save=[]  
 adjectives = ['смешных', 'полосатых', 'маленьких', 'хрустальных', 'черных', 'радостных', 'медленных', 'фиолетовых']  
@@ -32,3 +33,5 @@ while True:
         for i in range(0,len(save)):  
             result=result+f"{i+1}. "+save[i]+"\n"  
         print (result)
+```
+
