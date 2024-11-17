@@ -34,4 +34,5 @@ while True:
             result=result+f"{i+1}. "+save[i]+"\n"  
         print (result)
 ```
+Исправление, сделанное удалённо.
 
